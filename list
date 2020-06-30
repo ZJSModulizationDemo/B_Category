@@ -1,0 +1,32 @@
+
+aliyun
+- Type: git (master)
+- URL:  https://github.com/aliyun/aliyun-specs.git
+- Path: /Users/zhoujianshun/.cocoapods/repos/aliyun
+
+master
+- Type: git (master)
+- URL:  https://github.com/CocoaPods/Specs.git
+- Path: /Users/zhoujianshun/.cocoapods/repos/master
+
+modulizationdemo
+- Type: git (master)
+- URL:  https://github.com/ModulizationDemo/PrivatePods.git
+- Path: /Users/zhoujianshun/.cocoapods/repos/modulizationdemo
+
+RISpecs
+- Type: git (master)
+- URL:  http://192.168.1.29/app/RISpecs.git
+- Path: /Users/zhoujianshun/.cocoapods/repos/RISpecs
+
+trunk
+- Type: CDN
+- URL:  https://cdn.cocoapods.org/
+- Path: /Users/zhoujianshun/.cocoapods/repos/trunk
+
+ZJSPrivatePods
+- Type: git (master)
+- URL:  https://github.com/ZJSModulizationDemo/PrivatePods.git
+- Path: /Users/zhoujianshun/.cocoapods/repos/ZJSPrivatePods
+
+6 repos
