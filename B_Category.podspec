@@ -20,7 +20,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "B_Category"
-  s.version      = "0.0.0"
+  s.version      = "1.0.0"
   s.swift_version = '5.1'
   s.summary      = "B_Category."
 
