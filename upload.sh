@@ -11,7 +11,8 @@ if [ "$ConflicCount" -gt 0 ] ; then
 fi
 
 Repo="ZJSPrivatePods"
-RepoList=("ZJSPrivatePods","DUSpecs" "DUSpecs_test" "DUSpecs_gray")
+RepoList=("ZJSPrivatePods" "DUSpecs_test" "DUSpecs_gray")
+
 getRepo() {
     echo -e "\n"
     length=${#RepoList[@]}
